@@ -1,4 +1,4 @@
-# 🎓 Emotion-Aware GenAI Mentor
+# 🎓 GenAI Academic Mentor
 
 An intelligent **Streamlit-based academic mentor** that adapts explanations based on a student's **emotional state** such as confusion, stress, confidence, or normal understanding.
 
@@ -46,7 +46,7 @@ Then it uses a **Transformer model (`google/flan-t5-base`)** to generate respons
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 ```bash
 git clone https://github.com/your-username/emotion-aware-genai-mentor.git
 ```
@@ -61,7 +61,7 @@ streamlit run app.py
 ```
 ---
 
-## 🔮 Future Modules
+##  Future Modules
 
 - Voice-Based Mentor 
   Allow students to ask questions using speech and receive spoken AI explanations.
@@ -83,7 +83,7 @@ streamlit run app.py
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Real-time emotion detection using deep learning models  
 - Multilingual support for regional languages  
@@ -99,13 +99,19 @@ streamlit run app.py
 
 **Samtham Sai Deepthi**
 Aspiring AI Engineer | GenAI Learner | Developer
+```
+```
 **Samtham Sai Divya**
 Aspiring Software Engineer | CSE Student | Web Developer 
+```
+```
 **Vemula Sai Vaishnavi**  
 AI/ML Enthusiast | GenAI Learner | Student Developer
+```
+```
 **D.Charani**
 Creating Smart Systems | AI/ML Learner | Student 
 
-📌 Passionate about building AI-driven educational tools that combine  
+ Passionate about building AI-driven educational tools that combine  
 **personalization, emotional intelligence, and adaptive learning.**
 
