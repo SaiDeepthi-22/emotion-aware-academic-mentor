@@ -8,13 +8,13 @@ This project demonstrates how **Generative AI + Emotion Detection** can create a
 
 ##  Features
 
-✅ Emotion Detection from user input  
-✅ Adaptive teaching styles based on emotions  
-✅ AI-powered explanations using FLAN-T5  
-✅ Quiz Generator  
-✅ Personalized Study Plan Creator  
-✅ Learning Progress Dashboard  
-✅ Clean UI with multiple interactive pages  
+- Emotion Detection from user input  
+- Adaptive teaching styles based on emotions  
+- AI-powered explanations using FLAN-T5  
+- Quiz Generator  
+- Personalized Study Plan Creator  
+- Learning Progress Dashboard  
+- Clean UI with multiple interactive pages  
 
 ---
 
