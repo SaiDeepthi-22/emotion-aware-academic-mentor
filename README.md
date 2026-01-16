@@ -95,19 +95,20 @@ streamlit run app.py
 
 ---
 
-##  Author
+##  Authors
 
-- **Samtham Sai Deepthi**
-Aspiring AI Engineer | GenAI Learner | Developer
+**Samtham Sai Deepthi**  
+Aspiring AI Engineer | GenAI Learner | Developer  
 
-- **Samtham Sai Divya**
-Aspiring Software Engineer | CSE Student | Web Developer 
+**Samtham Sai Divya**  
+Aspiring Software Engineer | CSE Student | Web Developer  
 
-- **Vemula Sai Vaishnavi**  
-AI/ML Engineer | GenAI Learner | Student Developer
+**Vemula Sai Vaishnavi**  
+AI/ML Engineer | GenAI Learner | Student Developer  
 
-- **D.Charani**
-Creating Smart Systems | AI/ML Learner | Student 
+**D. Charani**  
+Creating Smart Systems | AI/ML Learner | Student  
+ 
 
 
 
