@@ -44,7 +44,7 @@ Then it uses a **Transformer model (`google/flan-t5-base`)** to generate respons
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️ Clone the Repository
 ```bash
@@ -104,11 +104,10 @@ Aspiring AI Engineer | GenAI Learner | Developer
 Aspiring Software Engineer | CSE Student | Web Developer 
 
 - **Vemula Sai Vaishnavi**  
-AI/ML Enthusiast | GenAI Learner | Student Developer
+AI/ML Engineer | GenAI Learner | Student Developer
 
 - **D.Charani**
 Creating Smart Systems | AI/ML Learner | Student 
 
- Passionate about building AI-driven educational tools that combine  
-**personalization, emotional intelligence, and adaptive learning.**
+
 
