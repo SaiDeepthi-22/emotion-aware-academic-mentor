@@ -52,7 +52,7 @@ git clone https://github.com/your-username/emotion-aware-genai-mentor.git
 cd emotion-aware-genai-mentor
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ---
 
 ## 🔮 Future Modules
