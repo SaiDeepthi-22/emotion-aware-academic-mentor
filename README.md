@@ -49,30 +49,36 @@ Then it uses a **Transformer model (`google/flan-t5-base`)** to generate respons
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/emotion-aware-genai-mentor.git
+```
+```bash
 cd emotion-aware-genai-mentor
+```
+```bash
 pip install -r requirements.txt
+```
+```bash
 streamlit run app.py
 ```
 ---
 
 ## 🔮 Future Modules
 
-- Voice-Based Mentor**  
+- Voice-Based Mentor 
   Allow students to ask questions using speech and receive spoken AI explanations.
 
-- Subject-Specific Tutors**  
+- Subject-Specific Tutors  
   Dedicated mentors for Math, Physics, Chemistry, Computer Science, and AI/ML.
 
-- Practice & Assessment Engine**  
+- Practice & Assessment Engine  
   Auto-generated assignments, coding exercises, and mock tests with instant feedback.
 
-- Learning Analytics Module**  
+- Learning Analytics Module  
   Track learning progress, weak areas, improvement trends, and personalized recommendations.
 
-- Emotion Intelligence Upgrade**  
+- Emotion Intelligence Upgrade  
   Replace keyword-based emotion detection with NLP-based sentiment and emotion classifiers.
 
-- Student Profile System**  
+- Student Profile System  
   Save learning history, favorite topics, emotional patterns, and personalized study paths.
 
 ---
@@ -93,11 +99,11 @@ streamlit run app.py
 
 **Samtham Sai Deepthi**
 Aspiring AI Engineer | GenAI Learner | Developer
-**Samtham Sai Divya
+**Samtham Sai Divya**
 Aspiring Software Engineer | CSE Student | Web Developer 
 **Vemula Sai Vaishnavi**  
 AI/ML Enthusiast | GenAI Learner | Student Developer
-**D.Charani
+**D.Charani**
 Creating Smart Systems | AI/ML Learner | Student 
 
 📌 Passionate about building AI-driven educational tools that combine  
